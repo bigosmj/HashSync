@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "MichaelBigos.HashSync": {
+      "commandName": "Project",
+      "commandLineArgs": "Source Target",
+      "workingDirectory": "D:\\users\\bigosmj\\Documents\\appdev\\products\\MichaelBigos.HashSync\\src\\MichaelBigos.HashSync.Tests\\TestData"
+    }
+  }
+}

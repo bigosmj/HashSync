@@ -1,0 +1,17 @@
+D:\users\bigosmj\Documents\appdev\products\MichaelBigos.HashSync\src\MichaelBigos.HashSync.Tests\bin\Release\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\users\bigosmj\Documents\appdev\products\MichaelBigos.HashSync\src\MichaelBigos.HashSync.Tests\bin\Release\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\users\bigosmj\Documents\appdev\products\MichaelBigos.HashSync\src\MichaelBigos.HashSync.Tests\bin\Release\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\users\bigosmj\Documents\appdev\products\MichaelBigos.HashSync\src\MichaelBigos.HashSync.Tests\bin\Release\netcoreapp2.0\MichaelBigos.HashSync.Tests.deps.json
+D:\users\bigosmj\Documents\appdev\products\MichaelBigos.HashSync\src\MichaelBigos.HashSync.Tests\bin\Release\netcoreapp2.0\MichaelBigos.HashSync.Tests.runtimeconfig.json
+D:\users\bigosmj\Documents\appdev\products\MichaelBigos.HashSync\src\MichaelBigos.HashSync.Tests\bin\Release\netcoreapp2.0\MichaelBigos.HashSync.Tests.runtimeconfig.dev.json
+D:\users\bigosmj\Documents\appdev\products\MichaelBigos.HashSync\src\MichaelBigos.HashSync.Tests\bin\Release\netcoreapp2.0\MichaelBigos.HashSync.Tests.dll
+D:\users\bigosmj\Documents\appdev\products\MichaelBigos.HashSync\src\MichaelBigos.HashSync.Tests\bin\Release\netcoreapp2.0\MichaelBigos.HashSync.Tests.pdb
+D:\users\bigosmj\Documents\appdev\products\MichaelBigos.HashSync\src\MichaelBigos.HashSync.Tests\bin\Release\netcoreapp2.0\HashSync.dll
+D:\users\bigosmj\Documents\appdev\products\MichaelBigos.HashSync\src\MichaelBigos.HashSync.Tests\bin\Release\netcoreapp2.0\HashSync.pdb
+D:\users\bigosmj\Documents\appdev\products\MichaelBigos.HashSync\src\MichaelBigos.HashSync.Tests\bin\Release\netcoreapp2.0\HashSync.dll.config
+D:\users\bigosmj\Documents\appdev\products\MichaelBigos.HashSync\src\MichaelBigos.HashSync.Tests\obj\Release\netcoreapp2.0\MichaelBigos.HashSync.Tests.csprojResolveAssemblyReference.cache
+D:\users\bigosmj\Documents\appdev\products\MichaelBigos.HashSync\src\MichaelBigos.HashSync.Tests\obj\Release\netcoreapp2.0\MichaelBigos.HashSync.Tests.csproj.CoreCompileInputs.cache
+D:\users\bigosmj\Documents\appdev\products\MichaelBigos.HashSync\src\MichaelBigos.HashSync.Tests\obj\Release\netcoreapp2.0\MichaelBigos.HashSync.Tests.AssemblyInfoInputs.cache
+D:\users\bigosmj\Documents\appdev\products\MichaelBigos.HashSync\src\MichaelBigos.HashSync.Tests\obj\Release\netcoreapp2.0\MichaelBigos.HashSync.Tests.AssemblyInfo.cs
+D:\users\bigosmj\Documents\appdev\products\MichaelBigos.HashSync\src\MichaelBigos.HashSync.Tests\obj\Release\netcoreapp2.0\MichaelBigos.HashSync.Tests.dll
+D:\users\bigosmj\Documents\appdev\products\MichaelBigos.HashSync\src\MichaelBigos.HashSync.Tests\obj\Release\netcoreapp2.0\MichaelBigos.HashSync.Tests.pdb
